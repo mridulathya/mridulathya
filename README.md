@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mridul Athya from Damoh (M.P.)
+- 👋 Hi, I’m Mridul Athya from Damoh (M.P.) .
 - 👀 Currently I'm at IIT (BHU),Varanasi pursuing B.Tech. in CSE.
 - 🌱 I’m currently learning C and C++ .
 
